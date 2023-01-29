@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priscosukoco
-- 👀 I’m interested in Data Analytics and Data Scientist
-- 🌱 I’m currently learning English Literature, Machine Learning Development, Chinese Language
+- 👀 I’m interested in Data Analytics, Business Analytics and Business Intelligence
+- 🌱 I’m currently learning SQL, Python, Tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
